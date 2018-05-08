@@ -1,13 +1,15 @@
 +++
 weight = 8
 Description = "Past Editions"
-date = "2016-04-22T16:55:35+01:00"
+date = "2018-05-0816:55:35+01:00"
 menu = "main"
 title = "Past Editions"
 +++
 
 # Past Editions
 
+* [OCL 2017](http://oclworkshop.github.io/2017/), Marburg
+* [OCL 2016](http://oclworkshop.github.io/2016/), Saint-Malo
 * [OCL 2015](https://ocl2015.lri.fr/), Ottawa
 * [OCL 2014](http://www.software.imdea.org/OCL2014/), Valencia
 * [OCL 2013](http://ocl2013.inf.mit.bme.hu/), Miami
