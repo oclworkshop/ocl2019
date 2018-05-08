@@ -1,4 +1,4 @@
-baseurl = "http://oclworkshop.github.io/2016/"
+baseurl = "http://oclworkshop.github.io/2018/"
 languageCode = "en-en"
 title = "OCL Workshop"
 theme = "slender"
@@ -12,24 +12,24 @@ uglyURLs = true
 
 [params]
   colorscheme = "teal"
-  description = "16th International Workshop in OCL and Textual Modeling"
+  description = "18th International Workshop in OCL and Textual Modeling"
 
   # Tagline; HTML accepted here. Keep it concise.
-  tagline = "16th International Workshop in OCL and Textual Modeling, October 2, 2016, Saint-Malo, France."
+  tagline = "18th International Workshop in OCL and Textual Modeling, October 14, 2018, Copenhagen, Denmark."
 
   # Footer; Markdown accepted here.
-  footer = "Copyright 2016 &copy; OCL Workshop'16 Organizers | Powered by [Hugo](http://gohugo.io) and the [Slender](http://themes.gohugo.io/slender/) theme"
+  footer = "Copyright 2018 &copy; OCL Workshop 2018 Organizers | Powered by [Hugo](http://gohugo.io) and the [Slender](http://themes.gohugo.io/slender/) theme"
 
   # Description and keywords for <meta> tags.
   # Remember to set this for your main page.
   # This will be overridden by whatever is set by the page or post,
   # defined by `description` and `keywords` variables in the front matter
   # of the markdown file.
-   keywords = "OCL Workshop, MoDELS'16"
+   keywords = "OCL Workshop, MoDELS 2018, MoDELs'18, textual modelling, UML/OCL"
 
   # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
   # Remove, comment, or leave blank any field to leave them out.
-   email = "mailto:ocl16@easychair.org"
+   email = "mailto:ocl18@easychair.org"
    github = "https://github.com/oclworkshop"
    twitter = "https://twitter.com/oclworkshop"
    linkedin = "https://www.linkedin.com/groups/3007822"
