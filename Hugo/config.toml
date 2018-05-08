@@ -1,4 +1,4 @@
-baseurl = "http://oclworkshop.github.io/2018/"
+baseurl = "https://oclworkshop.github.io/2018/"
 languageCode = "en-en"
 title = "OCL Workshop"
 theme = "slender"
