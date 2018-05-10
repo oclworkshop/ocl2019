@@ -36,6 +36,7 @@ and options for potential cooperation.
 Topics of interest include (but are not limited to):
 
 - Mappings between textual modeling languages and other languages/formalisms
+- Mathematical models and/or formal semantics for textual modeling languages
 - Algorithms, evaluation strategies and optimizations in the context
   of textual modeling languages for:
   - validation, verification, and testing,
@@ -48,6 +49,7 @@ Topics of interest include (but are not limited to):
 - Libraries, templates and patterns for textual modeling languages
 - Tools that support textual modeling languages (e.g., verification of
   OCL formulae, runtime monitoring of invariants)
+- Model-driven security using textual modeling languages 
 - Complexity results for textual modeling languages
 - Quality models and benchmarks for comparing and evaluating
   textual modeling tools and algorithms
@@ -62,17 +64,17 @@ Topics of interest include (but are not limited to):
 - Comparison, evaluation and integration of modeling languages
 - Correlation between modeling languages and modeling tasks
 
-This year, we particularly encourage submissions describing applications and
-case studies of textual modeling as well as test suites and benchmark collections
-for evaluating textual modeling tools.
+We particularly encourage submissions describing applications and case studies 
+of textual modeling as well as test suites and benchmark collections for evaluating 
+textual modeling tools.
 
 ## Venue
 This workshop will be organized as a part of MODELS 2018 Conference in 
-Copenhagen , Denmark. Similar to its predecessors , the workshop addresses both 
-people from academia and industry . The aim is to provide a forum for addressing 
-integration of OCL and other textual modeling languages , as well as tools for 
-textual modeling , and for disseminating good practice and discussing the new
-requirements for textual modeling .
+Copenhagen, Denmark. Similar to its predecessors, the workshop addresses both 
+people from academia and industry. The aim is to provide a forum for addressing 
+integration of OCL and other textual modeling languages, as well as tools for 
+textual modeling, and for disseminating good practice and discussing the new
+requirements for textual modeling.
 
 
 ## Workshop Format
