@@ -100,7 +100,7 @@ MODELS workshop proceedings, in [CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
-- Submission of papers:      July  17, 2018
+- Submission of papers:      July  24, 2018 (extended)
 - Notification:              August 17, 2018
 - Workshop date:             October 14, 2018 (tbc)
 
