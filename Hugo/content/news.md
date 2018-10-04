@@ -9,7 +9,7 @@ title = "News"
 
 # News !!!
 
-### Workshop Web Site On-line  - 2018-05-08
+### Lightning Talks (CfP) - 2018-10-04
 
 Like last year, the OCL workshop will host an open session at the end of the day where anybody will have the opportunity to talk about whatever they want for five minutes. No formal presubmission is required. Just send an email to [ocl2018@easychair.org](mailto:ocl2018@easychair.org) with the title and one paragraph description of what you'd like to talk about for organisational purposes.
 
