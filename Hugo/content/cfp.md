@@ -1,7 +1,7 @@
 +++
 weight = 1
 Description = "Call for Papers"
-date = "2018-04-22T16:12:19+01:00"
+date = "2019-04-22T16:12:19+01:00"
 menu = "main"
 title = "Call for Papers"
 
@@ -69,8 +69,8 @@ of textual modeling as well as test suites and benchmark collections for evaluat
 textual modeling tools.
 
 ## Venue
-This workshop will be organized as a part of MODELS 2018 Conference in 
-Copenhagen, Denmark. Similar to its predecessors, the workshop addresses both 
+This workshop will be organized as a part of MODELS 2019 Conference in 
+Munich, Germany. Similar to its predecessors, the workshop addresses both 
 people from academia and industry. The aim is to provide a forum for addressing 
 integration of OCL and other textual modeling languages, as well as tools for 
 textual modeling, and for disseminating good practice and discussing the new
@@ -91,7 +91,7 @@ Two types of papers will be considered:
 * Full papers (between 10 and 14 pages).
 
 in LNCS format. Submissions should be uploaded to
-[EasyChair](https://easychair.org/conferences/?conf=ocl2018).
+[EasyChair](https://easychair.org/conferences/?conf=ocl2019).
 The program committee will review the submissions (minimum 2 reviews per
 paper, usually 3 reviews) and select papers according to their
 relevance and interest for discussions that will take place at the
@@ -100,8 +100,8 @@ MODELS workshop proceedings, in [CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
-- Submission of papers:      July  24, 2018 (extended)
-- Notification:              August 17, 2018
-- Workshop date:             October 14, 2018 (tbc)
+- Submission of papers:      tbd 
+- Notification:              tbd
+- Workshop date:             tbd
 
 

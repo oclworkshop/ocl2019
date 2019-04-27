@@ -11,6 +11,6 @@ title = "Important dates"
 
 The important dates you should bear in mind for the workshop are the following:
 
-- Submission of papers:      July 24, 2018 (extended)
-- Notification:            August 17, 2018
-- Workshop date:          October 14, 2018
+- Submission of papers:      tbd
+- Notification:              tbd
+- Workshop date:             tbd
