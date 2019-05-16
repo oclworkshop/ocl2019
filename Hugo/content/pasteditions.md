@@ -8,6 +8,7 @@ title = "Past Editions"
 
 # Past Editions
 
+* [OCL 2018](https://oclworkshop.github.io/2018/), Copenhagen
 * [OCL 2017](http://oclworkshop.github.io/2017/), Marburg
 * [OCL 2016](http://oclworkshop.github.io/2016/), Saint-Malo
 * [OCL 2015](https://ocl2015.lri.fr/), Ottawa
