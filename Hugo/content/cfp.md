@@ -100,8 +100,7 @@ MODELS workshop proceedings, in [CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
-- Submission of papers:      tbd 
-- Notification:              tbd
-- Workshop date:             tbd
-
-
+- Submission of papers:      14 Jul 2019
+- Notification:              25 Aug 2019
+- Pre-Workshop CRC:           9 Sep 2019   
+- Post-Workshop CRC:          5 Oct 2019   
