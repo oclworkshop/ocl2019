@@ -22,17 +22,17 @@ title = "Committee"
 * Robert Bill, Vienna University of Technology, Austria
 * Achim D. Brucker, University of Exeter, UK
 * Jordi Cabot, Inria - Open University of Catalonia, Spain
-* Dan Chiorean, Babes - Bolyai University, Romania
+* Dan Chiorean, Babes-Bolyai University, Romania
 * Robert Clariso, Universitat Oberta de Catalunya, Spain
 * Tony Clark, Aston University, UK
 * Manuel Clavel, IMDEA Software Institute, Spain
 * Birgit Demuth, Technische Universität Dresden, Germany
 * Martin Gogolla, University of Bremen, Germany
-* Adolfo Sanchez - Barbudo Herrera, University of York, UK
+* Adolfo Sanchez-Barbudo Herrera, University of York, UK
 * Istvan Rath, Budapest University of Technology and Economics, Hungary
 * Jan Oliver Ringert, Tel Aviv University, Israel
 * Bernhard Rumpe, RWTH Aachen, Germany
 * Frederic Tuong, Virginia Tech, USA
-* Edward Willink, Willink Transformations Ltd ., UK
+* Edward Willink, Willink Transformations Ltd., UK
 * Hao Wu, Maynooth University, Ireland
 * Steffen Zschaler, King ’s College, UK
