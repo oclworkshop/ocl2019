@@ -68,35 +68,28 @@ We particularly encourage submissions describing applications and case studies
 of textual modeling as well as test suites and benchmark collections for evaluating 
 textual modeling tools.
 
-## Venue
-This workshop will be organized as a part of MODELS 2019 Conference in 
-Munich, Germany. Similar to its predecessors, the workshop addresses both 
-people from academia and industry. The aim is to provide a forum for addressing 
-integration of OCL and other textual modeling languages, as well as tools for 
-textual modeling, and for disseminating good practice and discussing the new
-requirements for textual modeling.
-
-
-## Workshop Format
-
-The workshop will include short (about 15 min) presentations, parallel
-sessions of working groups, and sum-up discussions.
-
 ## Submissions
 
-Two types of papers will be considered:
+Four types of submissions will be considered:
 
-* Short contributions (between 5 and 7 pages) describing new ideas, innovative 
-  tools or position papers.
+* Presentation only submission (not included in the workshop
+  proceedings), e.g., for already published work. Authors should
+  submit a short (1 page) abstract of their presentation.
+* Short papers (between 5 and 7 pages) describing new ideas or
+  position papers.
+* Tool papers (between 5 and 7 pages) describing tools supporting
+  textual modeling tools
 * Full papers (between 10 and 14 pages).
 
-in LNCS format. Submissions should be uploaded to
+All submissions should follow the LNCS format guidelines and should be
+uploaded to
 [EasyChair](https://easychair.org/conferences/?conf=ocl2019).
-The program committee will review the submissions (minimum 2 reviews per
-paper, usually 3 reviews) and select papers according to their
+
+The program committee will review the submissions (minimum 2 reviews
+per paper, usually 3 reviews) and select papers according to their
 relevance and interest for discussions that will take place at the
-workshop. Accepted papers will be published online, as part of the
-MODELS workshop proceedings, in [CEUR](http://www.ceur-ws.org).
+workshop. Accepted papers will be published online in
+[CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
