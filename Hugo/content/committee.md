@@ -32,7 +32,7 @@ title = "Committee"
 * Istvan Rath, Budapest University of Technology and Economics, Hungary
 * Jan Oliver Ringert, Tel Aviv University, Israel
 * Bernhard Rumpe, RWTH Aachen, Germany
-* Frederic Tuong, Virginia Tech, USA
+* Frédéric Tuong, Université Paris-Saclay - LRI, France
 * Edward Willink, Willink Transformations Ltd., UK
 * Hao Wu, Maynooth University, Ireland
 * Steffen Zschaler, King ’s College, UK
