@@ -11,7 +11,7 @@ title = "Important dates"
 
 The important dates you should bear in mind for the workshop are the following:
 
-- Submission of papers:      14 Jul 2019
-- Notification:              25 Aug 2019
-- Pre-Workshop CRC:           9 Sep 2019   
-- Post-Workshop CRC:          5 Oct 2019   
+- Submission of papers:      21 Jul 2019, AoE (extended)
+- Notification:              25 Aug 2019, AoE
+- Pre-Workshop CRC:           9 Sep 2019, AoE   
+- Post-Workshop CRC:          5 Oct 2019, AoE  
