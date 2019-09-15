@@ -27,5 +27,6 @@ title = "Program"
   * Lightning Talks 
       * Christophe Ponsard: Some Guidelines About When to Use Textual And/Or Graphical Modelling in MBSE
       * Ed Willing: A Map Type for OCL
-      * Martin Gogolla: Tweaking Class Model Verification with Specialized 
+      * Martin Gogolla: Tweaking Class Model Verification with Specialized Association Bounds
+
   * Panel Discussion
