@@ -29,7 +29,7 @@ title = "Program"
   * Martin Gogolla: Two Decades of OCL - A Personal View
   * Patrick Neubauer, Robert Bill, Dimitris Kolovos, Richard F. Paige
     and Manuel Wimmer. *Reusable Textual Notations for Domain-Specific
-    Languages* [pre-print](papers/OCL2019_paper_001.pdf)
+    Languages* [pre-print](papers/OCL2019_paper_001.pdf) [slides](slides/OCL2019_slides_001.pdf)
   * Paula Muñoz, Loli Burgueño, Martin Gogolla and Antonio
     Vallecillo. *Automatic Generation of Valid Behavioral Scripts from
     UML Sequence Diagrams* [pre-print](papers/OCL2019_paper_010.pdf) [slides](slides/OCL2019_slides_010.pdf)
