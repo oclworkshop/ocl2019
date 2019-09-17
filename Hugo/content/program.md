@@ -17,7 +17,7 @@ title = "Program"
 * 10.30-11.00: *Coffee Break*
 * 11.00-12.30: Session 2  
   * Daniel Calegari and Marcos Viera. *Experimenting with functional
-    features of the Object Constraint Language* [pre-print](papers/OCL2019_paper_101.pdf)
+    features of the Object Constraint Language* [pre-print](papers/OCL2019_paper_101.pdf) [slides](slides/OCL2019_slides_101.pdf)
   * Robert Clarisó and Martin Gogolla. *A Feasibility Study on Using
     Classifying Terms in Alloy* [pre-print](papers/OCL2019_paper_000.pdf)
   * Víctor Ortiz, Loli Burgueño, Antonio Vallecillo and Martin
